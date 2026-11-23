@@ -1,0 +1,6 @@
+{
+  "name": "SmartAttend 3D",
+  "description": "Spatial classroom attendance prototype with dynamic expiring QR codes, 3D geofence validation, simulated liveness checks, role-based access, and privacy audit controls.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
